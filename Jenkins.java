@@ -9,6 +9,9 @@ public class Jenkins
 			System.out.println("Testing auto trigger 14\n");
 			System.out.println("Testing auto trigger 15\n");
 			System.out.println("Testing auto trigger 16\n");
+			System.out.println("Testing auto trigger 17\n");
+			System.out.println("Testing auto trigger 18\n");
+
 
 		}
 }
