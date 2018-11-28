@@ -2,6 +2,7 @@ public class Jenkins
 {
 	public static void main( String[] args)
 		{
-			System.out.println("This is a Jenkins integration sample program for git hub");
+			System.out.println("This is a Jenkins integration sample program for github\n");
+			System.out.println("Testing auto trigger\n");
 		}
 }
